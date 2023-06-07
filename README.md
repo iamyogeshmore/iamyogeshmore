@@ -113,22 +113,6 @@
 [javatpoint]: https://www.javatpoint.com/java-tutorial
 [hackerRank]: https://www.hackerrank.com/iyogesh_more
 
-
-
-
-
-
-
-
-
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamyogeshmore&label=Profile%20views&color=0e75b6&style=flat" alt="iamyogeshmore" /> </p>
-
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyogeshmore&show_icons=true&locale=en&layout=compact" alt="iamyogeshmore" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamyogeshmore&show_icons=true&locale=en" alt="iamyogeshmore" /></p>
