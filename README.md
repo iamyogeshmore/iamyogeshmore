@@ -15,13 +15,13 @@
   <img align="left" alt="Yogesh's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=iyogeshmore.iyogeshmore)
+![](https://visitor-badge.glitch.me/badge?page_id=iamyogeshmore.iamyogeshmore)
 <br />
 
 
  <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
 
-👋 Hi, I’m @iyogeshmore
+👋 Hi, I’m @iamyogeshmore
 
 👀 I’m interested in to learn new technology Based on IT service, data science, etc
 
@@ -33,7 +33,7 @@
 ## 🌏 **CONNECT WITH ME**
 
 
- <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="right" src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=iyogeshmore&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="right" src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=iamyogeshmore&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
 
 <a href="https://www.linkedin.com/in/yogesh-more-28b663266/"><img src="https://img.shields.io/badge/linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"  alt="linkedin"/></a>
 <a href="https://www.hackerrank.com/iyogesh_more"> 
@@ -119,7 +119,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iyogeshmore&theme=default" alt="Stats" /> </a>
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamyogeshmore&theme=default" alt="Stats" /> </a>
     </td>
     <td>
       <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iyogeshmore&theme=default&utcOffset=8" alt="Commits" /> </a>
