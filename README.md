@@ -65,9 +65,9 @@
 <a href="https://web.whatsapp.com/8850055197"> 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
 </a>
-
+<br />
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyogeshmore&show_icons=true&locale=en&layout=compact" alt="iamyogeshmore" /></p>
-
+<br />
 ## 🎯 **PROGRAMMING LANGUAGES**
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
