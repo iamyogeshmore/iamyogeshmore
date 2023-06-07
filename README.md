@@ -34,7 +34,6 @@
 ## 🌏 **CONNECT WITH ME**
 
 
- <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="right" src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=iamyogeshmore&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyogeshmore&show_icons=true&locale=en&layout=compact" alt="iamyogeshmore" /></p>
 
