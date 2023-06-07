@@ -14,12 +14,8 @@
 <a href="https://www.youtube.com/@ig_yogeshgaming">
   <img align="left" alt="Yogesh's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamyogeshmore&label=Profile%20views&color=0e75b6&style=flat" alt="iamyogeshmore" /> </p>
-
 <br />
-
-
  <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
 
 👋 Hi, I’m @iamyogeshmore
@@ -32,10 +28,6 @@
 
 📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com".
 ## 🌏 **CONNECT WITH ME**
-
-
- 
-
 
 <a href="https://www.linkedin.com/in/yogesh-more-28b663266/"><img src="https://img.shields.io/badge/linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"  alt="linkedin"/></a>
 <a href="https://www.hackerrank.com/iyogesh_more"> 
@@ -75,8 +67,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")
 ![vuejs](https://img.shields.io/badge/vuejs-98FF98?style=for-the-badge&logo=vuejs&logoColor=white "vuejs")
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyogeshmore&show_icons=true&locale=en&layout=compact" alt="iamyogeshmore" /></p> 
 
+&nbsp;   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyogeshmore&show_icons=true&locale=en&layout=compact" alt="iamyogeshmore" /></p> &nbsp;  
 ## 📄 **CODE EDITOR & IDES**
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
