@@ -68,7 +68,6 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")
 ![vuejs](https://img.shields.io/badge/vuejs-98FF98?style=for-the-badge&logo=vuejs&logoColor=white "vuejs")
 
-
 ## 📄 **CODE EDITOR & IDES**
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
@@ -92,7 +91,6 @@
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
 ## ☃️ **MY LEARNING RESOURCES**
 
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
@@ -101,15 +99,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
 [![javatpoint](https://img.shields.io/badge/javatpoint-FF0000?style=for-the-badge&logo=javatpoint&logoColor=white)][javatpoint]
 
-
 [google]: https://www.google.com
 [youtube]: https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww
 [w3schools]: https://www.w3schools.com/
 [github]: https://github.com/iyogeshmore
 [javatpoint]: https://www.javatpoint.com/java-tutorial
 [hackerRank]: https://www.hackerrank.com/iyogesh_more
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyogeshmore&show_icons=true&locale=en&layout=compact" alt="iamyogeshmore" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamyogeshmore&show_icons=true&locale=en" alt="iamyogeshmore" /></p>
 
