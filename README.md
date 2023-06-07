@@ -15,7 +15,8 @@
   <img align="left" alt="Yogesh's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=iamyogeshmore.iamyogeshmore)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamyogeshmore&label=Profile%20views&color=0e75b6&style=flat" alt="iamyogeshmore" /> </p>
+
 <br />
 
 
