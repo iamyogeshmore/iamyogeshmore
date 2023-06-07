@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
 </a>
 <br />
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyogeshmore&show_icons=true&locale=en&layout=compact" alt="iamyogeshmore" /></p> <br /> <br /> <br /> 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyogeshmore&show_icons=true&locale=en&layout=compact" alt="iamyogeshmore" /></p> &nbsp;
 
 ## 🎯 **PROGRAMMING LANGUAGES**
 
@@ -68,7 +68,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")
 ![vuejs](https://img.shields.io/badge/vuejs-98FF98?style=for-the-badge&logo=vuejs&logoColor=white "vuejs")
 
-&nbsp;   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamyogeshmore&show_icons=true&locale=en&layout=compact" alt="iamyogeshmore" /></p> &nbsp;  
+
 ## 📄 **CODE EDITOR & IDES**
 
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
