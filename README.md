@@ -35,7 +35,7 @@
 
  <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
 
-👋 Hi, I’m @iamyogeshmore
+👋 Hi, I’m Yogesh More.
 
 👀 I’m interested in to learn new technology Based on IT service, data science, etc
 
