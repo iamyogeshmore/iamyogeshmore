@@ -1,19 +1,5 @@
 ### hey there !
-<a href="https://www.instagram.com/iam_yogeshmore/">
-  <img align="left" alt="Yogesh's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://www.linkedin.com/in/yogesh-more-28b663266/">
-  <img align="left" alt="Yogesh's linkedin" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
-</a> 
-<a href="https://discord.gg/8knnK7aBqs">
-  <img align="left" alt="Yogesh's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/YogeshM84850172">
-  <img align="left" alt="iyogeshmore | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.youtube.com/@ig_yogeshgaming">
-  <img align="left" alt="Yogesh's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
-</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamyogeshmore&label=Profile%20views&color=0e75b6&style=flat" alt="iamyogeshmore" /> </p>
 <br />
 
@@ -83,6 +69,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")
 ![springboot](https://img.shields.io/badge/springboot-%23ED8B00.svg?style=for-the-badge&logo=springboot&logoColor=white "springboot")
 ![vuejs](https://img.shields.io/badge/vuejs-98FF98?style=for-the-badge&logo=vuejs&logoColor=white "vuejs")
+![Reactjs](https://img.shields.io/badge/Reactjs-98FF98?style=for-the-badge&logo=Reactjs&logoColor=white "Reactjs")
 
 ## 📄 **CODE EDITOR & IDES**
 
