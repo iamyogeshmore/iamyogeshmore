@@ -69,7 +69,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")
 ![springboot](https://img.shields.io/badge/springboot-%23ED8B00.svg?style=for-the-badge&logo=springboot&logoColor=white "springboot")
 ![vuejs](https://img.shields.io/badge/vuejs-98FF98?style=for-the-badge&logo=vuejs&logoColor=white "vuejs")
-![Reactjs](https://img.shields.io/badge/Reactjs-98FF98?style=for-the-badge&logo=Reactjs&logoColor=white "Reactjs")
+![reactjs](https://img.shields.io/badge/reactjs.org-98FF98?style=for-the-badge&logo=reactjs.org&logoColor=white "reactjs.org")
 
 ## 📄 **CODE EDITOR & IDES**
 
