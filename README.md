@@ -39,7 +39,7 @@
 <a href="https://discord.gg/8knnK7aBqs"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
-<a href="https://www.youtube.com/channel/UC8aOouBXg_10pTv8FOuz8kw/featured"> 
+<a href="https://www.youtube.com/@ig_yogeshgaming"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
 <a href="mailto:iyogesh.more1998@gmail.com"> 
