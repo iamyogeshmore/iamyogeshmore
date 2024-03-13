@@ -13,7 +13,8 @@
 <p align="center">
     <a href="https://github.com/iamyogeshmore"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Ayyannaruto"/>
+
 
 👋 Hi, I’m Yogesh More.
 
@@ -110,4 +111,3 @@
 [hackerRank]: https://www.hackerrank.com/iyogesh_more
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Ayyannaruto"/>
