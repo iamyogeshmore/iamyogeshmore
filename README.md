@@ -85,6 +85,7 @@
 ## 📅 **DATABASES**
 
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=PostgreSQL&logoColor=white "PostgreSQL")
 
 ## ⭕ **OPERATING SYSTEMS**
 
