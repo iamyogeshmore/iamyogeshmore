@@ -278,106 +278,29 @@ console.log(YogeshMore.sayHi());
 
 ## 😄 Dev Humor Corner
 
-<details>
-<summary><b>🔥 Joke 1 — Bug Fixing Strategy</b></summary>
-
 ```javascript
-// Me fixing a bug at 2am
+// Me after 7 hours of debugging 🔍
 
-const fixBug = () => {
-  deleteEverything();
-  rewriteFromScratch();
-  // good as new 🔥
-};
+const bug = await findBug();   // took 6 hrs 59 mins
+const fix = ";"                // took 1 min 💀
+
+console.log("I am a senior developer.");
+console.log("I have 2.6 years of experience.");
+console.log("The bug was a missing semicolon.");
 ```
-> *"Works on my machine"* — shipping the machine 🚀
-
-</details>
-
-<details>
-<summary><b>😭 Joke 2 — Git Commit Messages</b></summary>
 
 ```bash
+# My git history tells the full story
+
 git commit -m "fix"
 git commit -m "fix2"
 git commit -m "fix FINAL"
 git commit -m "fix FINAL v2 (actual)"
-git commit -m "ok THIS is the fix"
-git commit -m "please"  # 😭
+git commit -m "please work"
+git commit -m "ok I have no idea what I'm doing"  # 😭
 ```
-> *"I'll write better commit messages tomorrow."* — me, never
 
-</details>
-
-<details>
-<summary><b>💀 Joke 3 — Senior Developer Moment</b></summary>
-
-```javascript
-// Hours debugging: 7
-// Bug was:
-
-const data = fetchData()  // missing await 💀
-
-// I am a senior developer.
-// I have 2.6 years of experience.
-// I console.log everything.
-```
-> *"console.log is not a debugger."* — my linter (I ignore it)
-
-</details>
-
-<details>
-<summary><b>😅 Joke 4 — Sprint Planning</b></summary>
-
-```javascript
-// Sprint planning be like:
-
-PM:  "How long will this take?"
-Me:  "2 days"
-God: laugh();
-
-// Day 1: Setup & planning
-// Day 2: Why is CSS broken
-// Day 8: Done ✅  (close enough)
-```
-> *"Agile: because waterfall wasn't fast enough at failing."* 😅
-
-</details>
-
-<details>
-<summary><b>😇 Joke 5 — Stack Overflow Developer</b></summary>
-
-```javascript
-if (stuck) {
-  searchStackOverflow();
-  copyPasteTopAnswer();
-  pretendIUnderstoodIt(); // 😇
-
-  // Accepted answer: 2009
-  // Does it still work? Yes.
-  // Do I know why?    No.
-}
-```
-> *"Copy from one, it's plagiarism. Copy from many, it's research."* 📚
-
-</details>
-
-<details>
-<summary><b>👀 Joke 6 — Code Review Reality</b></summary>
-
-```javascript
-// My code review experience
-
-Before review: "This is clean, elegant code"
-After review:  "What is this spaghetti 🍝"
-
-// TODO: fix before PR       ← me
-// TODO: fix before RELEASE  ← also me
-// WONTFIX                   ← future me 😤
-```
-> *"Any fool can write code a computer understands. Good luck with humans."* 👀
-
-</details>
+> *"Programming is the art of telling another human what you want the computer to do — and then spending 3 days asking Stack Overflow why it won't."* 🤌
 
 ---
 
