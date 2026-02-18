@@ -3,8 +3,8 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=YOGESH%20MORE&fontSize=60&fontAlignY=35&desc=MERN%20Stack%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=18&animation=twinkling&fontColor=FFFFFF" width="100%"/>
 
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=⚡+Building+Scalable+MERN+Applications;🎯+2.6%2B+Years+of+Full-Stack+Experience;🚀+React.js+%7C+Node.js+%7C+MongoDB+%7C+Docker;💡+Turning+Ideas+into+Reality" alt="Typing SVG" />
+<!-- Animated Typing SVG — using svg-readme which is more reliable -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=600&lines=%E2%9A%A1+Building+Scalable+MERN+Applications;%F0%9F%8E%AF+2.6%2B+Years+of+Full-Stack+Experience;%F0%9F%9A%80+React.js+%7C+Node.js+%7C+MongoDB+%7C+Docker;%F0%9F%92%A1+Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -24,6 +24,7 @@
 </div>
 
 ---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
 
 ```typescript
@@ -62,8 +63,6 @@ console.log(YogeshMore.sayHi());
 ---
 
 ## 🛠️ Tech Stack
-
-
 
 <div align="center">
 
@@ -140,36 +139,12 @@ console.log(YogeshMore.sayHi());
 
 <br/>
 
-## 💼 Professional Experience
+## 💼 Professional Experience &nbsp;&nbsp;![Experience](https://img.shields.io/badge/Total%20Experience-2%20Years%208%20Months-00D9FF?style=flat-square&labelColor=0D1117)
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                         PROFESSIONAL EXPERIENCE                                                      ║
-╠═══════════════════════════════╦══════════════════════╦═══════════════════════════╦═══════════════════════════════════╣
-║          COMPANY              ║        ROLE          ║   DURATION (EXPERIENCE)   ║         TECH STACK                ║
-╠═══════════════════════════════╬══════════════════════╬═══════════════════════════╬═══════════════════════════════════╣
-║                               ║                      ║                           ║                                   ║
-║  EnergiSpeak Analytics        ║  MERN Stack          ║  Aug 2024 - Present       ║  React.js • Node.js               ║
-║                               ║  Developer           ║  (1 year 7 months)        ║  Express.js • MongoDB             ║
-║                               ║                      ║                           ║  Docker • Material-UI             ║
-║                               ║                      ║                           ║                                   ║
-╠═══════════════════════════════╬══════════════════════╬═══════════════════════════╬═══════════════════════════════════╣
-║                               ║                      ║                           ║                                   ║
-║  Acumen Cognitive             ║  Junior Software     ║  Jan 2023 - Jul 2024      ║  React.js • Node.js               ║
-║  Engineering                  ║  Developer           ║  (11 months)              ║  Express.js • REST APIs           ║
-║                               ║                      ║                           ║                                   ║
-╠═══════════════════════════════╬══════════════════════╬═══════════════════════════╬═══════════════════════════════════╣
-║                               ║                      ║                           ║                                   ║
-║  BridgeLabz Solutions         ║  Full Stack          ║  Jun 2022 - Dec 2022      ║  React.js • Node.js               ║
-║                               ║  Developer           ║  (7 months)               ║  Express.js • MongoDB             ║
-║                               ║                      ║                           ║                                   ║
-╚═══════════════════════════════╩══════════════════════╩═══════════════════════════╩═══════════════════════════════════╝
+<details>
+<summary><b>🚀 EnergiSpeak Analytics — MERN Stack Developer</b> &nbsp;|&nbsp; <i>Aug 2024 – Present &nbsp;(1 year 7 months)</i></summary>
 
-Total Experience: 2 years 8 months
-```
-
-### 🚀 EnergiSpeak Analytics - MERN Stack Developer
-**Aug 2024 - Present** | *1 year 7 months*
+<br/>
 
 ```
 ▸ Architected interactive dashboards using React.js & Material UI
@@ -179,8 +154,14 @@ Total Experience: 2 years 8 months
 ▸ Collaborated with product teams for scalable solutions
 ```
 
-### 💻 Acumen Cognitive Engineering - Junior Software Developer
-**Jan 2023 - Jul 2024** | *11 months*
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Docker` `Material-UI`
+
+</details>
+
+<details>
+<summary><b>💻 Acumen Cognitive Engineering — Junior Software Developer</b> &nbsp;|&nbsp; <i>Jan 2023 – Jul 2024 &nbsp;(11 months)</i></summary>
+
+<br/>
 
 ```
 ▸ Developed responsive web applications with React.js & Node.js
@@ -189,8 +170,14 @@ Total Experience: 2 years 8 months
 ▸ Enhanced application performance & functionality
 ```
 
-### 🖥️ BridgeLabz Solutions - Full Stack Developer
-**Jun 2022 - Dec 2022** | *7 months*
+**Tech Stack:** `React.js` `Node.js` `Express.js` `REST APIs`
+
+</details>
+
+<details>
+<summary><b>🖥️ BridgeLabz Solutions — Full Stack Developer</b> &nbsp;|&nbsp; <i>Jun 2022 – Dec 2022 &nbsp;(7 months)</i></summary>
+
+<br/>
 
 ```
 ▸ Built Employee Payroll & Address Book applications
@@ -199,9 +186,11 @@ Total Experience: 2 years 8 months
 ▸ Implemented advanced search functionalities
 ```
 
+**Tech Stack:** `React.js` `Node.js` `Express.js` `MongoDB`
+
+</details>
+
 <br/>
-
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -209,16 +198,15 @@ Total Experience: 2 years 8 months
 
 ## 🎓 Education
 
-```
-┌──────────────────────────────────────────────────────────────────────────────────────────────────┐
-│                                         EDUCATION                                                │
-├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│  DEGREE                                    INSTITUTION                              YEAR         │
-├──────────────────────────────────────────────────────────────────────────────────────────────────┤
-│  B.Sc. Information Technology              Arunodaya University                     2024         │
-│  Diploma in Computer Technology            Bharati Vidyapeeth Institute            2020         │
-└──────────────────────────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| 🎓 Degree | 🏛️ Institution | 📅 Year |
+|:---:|:---:|:---:|
+| MBA — Information Technology Management | Dr. D. Y. Patil Vidyapeeth, Pune | 2026 |
+| B.Sc. Information Technology | Arunodaya University | 2024 |
+| Diploma in Computer Technology | Bharati Vidyapeeth Institute | 2020 |
+
+</div>
 
 <br/>
 
@@ -247,16 +235,16 @@ Total Experience: 2 years 8 months
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamyogeshmore&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamyogeshmore&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF5733&currStreakLabel=00D9FF&border_radius=10" width="49%" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamyogeshmore&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats"/>
+&nbsp;
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamyogeshmore&theme=transparent&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF5733&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=10" alt="GitHub Streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8&hide=jupyter%20notebook,html,css" width="40%" alt="Top Languages"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8&hide=jupyter%20notebook,html,css" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=iamyogeshmore&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
@@ -277,11 +265,12 @@ Total Experience: 2 years 8 months
 
 <div align="center">
 
-[![Book Store App](https://github-readme-stats.vercel.app/api/pin/?username=iamyogeshmore&repo=Book-Store-Application&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&hide_border=true&border_radius=10)](https://github.com/iamyogeshmore/Book-Store-Application)
-[![Book Store React](https://github-readme-stats.vercel.app/api/pin/?username=iamyogeshmore&repo=Book-Store-App-React&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&hide_border=true&border_radius=10)](https://github.com/iamyogeshmore/Book-Store-App-React)
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=iamyogeshmore&repo=Portfolio.github.io&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&hide_border=true&border_radius=10)](https://github.com/iamyogeshmore/Portfolio.github.io)
-[![Employee Payroll](https://github-readme-stats.vercel.app/api/pin/?username=iamyogeshmore&repo=Employee-Payroll-Application&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&icon_color=00D9FF&hide_border=true&border_radius=10)](https://github.com/iamyogeshmore/Employee-Payroll-Application)
+| Project | Description | Tech |
+|---|---|---|
+| [📚 Book Store Application](https://github.com/iamyogeshmore/Book-Store-Application) | Full-stack bookstore with cart & orders | Node.js · Express · MongoDB |
+| [⚛️ Book Store React](https://github.com/iamyogeshmore/Book-Store-App-React) | React frontend for the Book Store app | React.js · CSS |
+| [🌐 Portfolio](https://github.com/iamyogeshmore/Portfolio.github.io) | Personal developer portfolio website | HTML · CSS · JavaScript |
+| [💼 Employee Payroll](https://github.com/iamyogeshmore/Employee-Payroll-Application) | Employee payroll management system | Node.js · Express · MongoDB |
 
 </div>
 
@@ -318,7 +307,6 @@ console.log("undefined is not a function") # 💀
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 **⚡ If you like what you see, drop a ⭐ on a repo! It means a lot.**
