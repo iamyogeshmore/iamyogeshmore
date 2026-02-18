@@ -1,117 +1,154 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamyogeshmore&label=Profile%20views&color=0e75b6&style=flat" alt="iamyogeshmore" /> </p>
+<div align="center">
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-<br>
-<p align="center">
-    <h1 align="center">✩&emsp;iamyogeshmore&emsp;✩</h1>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yogesh%20More&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Lifelong%20Learner&descAlignY=60&descAlign=50&descColor=a78bfa"/>
+
+<!-- Typing SVG -->
+<a href="https://github.com/iamyogeshmore">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Yogesh+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Spring+Boot+%7C+React+%7C+Vue.js;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views & Followers -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=iamyogeshmore&label=Profile+Views&color=7c3aed&style=flat-square" alt="Profile views"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/iamyogeshmore?label=Followers&style=flat-square&color=7c3aed" alt="Followers"/>
 </p>
-<p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Yogesh More
+location: Maharashtra, India
+role: Full Stack Developer (Learning & Growing)
+tech_stack:
+  backend:  [ Java, Spring Boot, Node.js, Express.js ]
+  frontend: [ React, Vue.js, HTML5, CSS3, TailwindCSS ]
+  database: [ MySQL, PostgreSQL, MongoDB ]
+  tools:    [ Git, GitHub, Postman, VS Code, IntelliJ ]
+currently_learning:
+  - Advanced Spring Boot Microservices
+  - System Design
+  - DSA with Java
+goal: "Join an organization where I can contribute meaningfully and grow continuously"
+contact: iyogesh.more1998@gmail.com
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🔷 Languages & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
-<p align="center">
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-<p align="center">
-    <a href="https://github.com/iamyogeshmore?tab=repositories">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="iamyogeshmore"/>
-</a>
+
+### ⚙️ Tools & IDEs
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
 
-👋 Hi, I’m Yogesh More.
+---
 
-👀 I’m interested in to learn new technology Based on IT service, data science, etc
+## 📊 GitHub Stats
 
-🌱The skills I'm learning right now are Java, SpringBoot, MySQL ,HTML, CSS, JavaScript, VueJs, ReactJs.
+<div align="center">
 
-💞️ I’m looking forward to join the organization where i can contribute my skills towards it's Goals.
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamyogeshmore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&theme=tokyonight&hide_border=true"/>
 
-📫 You can reach throughout my e-mail "iyogesh.more1998@gmail.com".
-## 🌏 **CONNECT WITH ME**
+<br/>
 
-<a href="https://www.linkedin.com/in/yogesh-more-28b663266/"><img src="https://img.shields.io/badge/linkedin-7289DA?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"  alt="linkedin"/></a>
-<a href="https://www.hackerrank.com/iyogesh_more"> 
-<img src="https://img.shields.io/badge/hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" title="hackerrank"  alt="hackerrank"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamyogeshmore&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamyogeshmore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/yogesh-more-28b663266/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://codepen.io/yogesh-more-the-bashful"> 
-    <img src="https://img.shields.io/badge/codepen-7289DA?style=for-the-badge&logo=codepen&logoColor=black" title="codepen"  alt="codepen"/>
+<a href="mailto:iyogesh.more1998@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-   <a href="https://www.instagram.com/iam_yogeshmore/"> 
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
+<a href="https://www.hackerrank.com/iyogesh_more">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-<a href="https://discord.gg/8knnK7aBqs"> 
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
+<a href="https://codepen.io/yogesh-more-the-bashful">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/@ig_yogeshgaming"> 
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
+<a href="https://twitter.com/YogeshM84850172">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="mailto:iyogesh.more1998@gmail.com"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
+<a href="https://www.instagram.com/iam_yogeshmore/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://twitter.com/YogeshM84850172"> 
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
+<a href="https://discord.gg/8knnK7aBqs">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/profile.php?id=100005693325416"> 
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
+<a href="https://www.youtube.com/@ig_yogeshgaming">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
-<a href="https://web.whatsapp.com/8850055197"> 
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp" alt="Whatsapp"/>
-</a>
-<br />
- &nbsp;
 
-## 🎯 **PROGRAMMING LANGUAGES**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+</div>
 
+---
 
+<div align="center">
 
-## 📄 **CODE EDITOR & IDES**
+### 💬 Dev Quote of the Day
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-%23FA0F00.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="460" height="360" />
+---
 
-## 🛠️ **DEVLOPMENT TOOLS**
+<div align="center">
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white "GitHub")
-![Shell Scripts](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-## 📅 **DATABASES**
-
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white "MongoDB")
-
-
-## ⭕ **OPERATING SYSTEMS**
-
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-
-## ☃️ **MY LEARNING RESOURCES**
-
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
-[![w3schools](https://img.shields.io/badge/w3schools-gray?style=for-the-badge&logo=w3schools&logoColor=35914c)][w3schools]
-[![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)][google]
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
-[![javatpoint](https://img.shields.io/badge/javatpoint-FF0000?style=for-the-badge&logo=javatpoint&logoColor=white)][javatpoint]
-
-[google]: https://www.google.com
-[youtube]: https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww
-[w3schools]: https://www.w3schools.com/
-[github]: https://github.com/iyogeshmore
-[javatpoint]: https://www.javatpoint.com/java-tutorial
-[hackerRank]: https://www.hackerrank.com/iyogesh_more
-
-
+</div>
