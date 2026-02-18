@@ -25,7 +25,7 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> About Me &nbsp;—&nbsp; *"Keep it simple."*
 
 ```typescript
 const YogeshMore = {
