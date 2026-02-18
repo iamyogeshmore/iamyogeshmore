@@ -293,50 +293,7 @@ console.log(YogeshMore);
 ---
 
 ## 😄 Dev Humor Corner
-
-```javascript
-// Sprint estimation, a true story 📅
-
-async function estimateTask(task) {
-  const myEstimate   = "2 days";   // confident 😎
-  const actualTime   = "2 weeks";  // humbled 😐
-  const reasonWhy    = "CSS";      // always CSS 💀
-
-  return `Done! (mostly)`;         // close enough ✅
-}
-
-// PM: "Just a small change, 5 minutes?"
-// Me: *opens 17 files, breaks prod, rewrites history*
-// Me: "Yeah, almost done." 🙂
-```
-
-```bash
-# Real conversation with Git
-
-$ git push origin main
-error: failed to push — updates were rejected
-
-$ git pull
-CONFLICT: merge conflict in everything.js  # 😭
-
-$ git status
-On branch main
-Changes not staged:    your sanity
-Untracked files:       your confidence
-
-$ git commit -m "I just want to go home"
-$ git push --force   # YOLO 🚀
-```
 <div align="center">
-
-![Wave](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* 📖  
-> *"Programming isn't about what you know; it's about what you can figure out."* 🧩  
-> *"The best error message is the one that never shows up."* ✨ <br/>
-**© 2026 Yogesh More • MERN Stack Developer**
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 ### 💻 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
@@ -352,6 +309,17 @@ const developer = {
 ```
 [![Reach Out](https://img.shields.io/badge/Let's_Connect-00D9FF?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/yogesh-more-28b663266/)
 [![Email Me](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iyogesh.more1998@gmail.com)
+
+
 ![Wave](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* 📖  
+> *"Programming isn't about what you know; it's about what you can figure out."* 🧩  
+> *"The best error message is the one that never shows up."* ✨ <br/>
+**© 2026 Yogesh More • MERN Stack Developer**
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+
 </div>
 </div>
