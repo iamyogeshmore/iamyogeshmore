@@ -278,30 +278,26 @@ console.log(YogeshMore.sayHi());
 
 ## 😄 Dev Humor Corner
 
-```bash
-#!/bin/bash
-# A typical day in the life of a MERN dev
+```javascript
+// My development process in a nutshell
 
-echo "🌅 Morning standup: 'Yeah, I'm almost done...'"
-echo "☕ Coffee #1: git pull origin main"
-echo "😱 Coffee #2: 200 merge conflicts"
-echo "🤔 Coffee #3: 'It works on my machine'"
-echo "🐳 Coffee #4: 'Just Docker it'"
-echo "🎉 Coffee #5: It finally works... don't touch it."
+if (it_works) {
+  dont_touch_it();        // 🙏 sacred code
+} else {
+  console.log("works on my machine 🤷");
+  blame(intern);
+}
 
-# The sacred cycle
-while [ "$bugs" -gt 0 ]; do
-    fix_one_bug
-    bugs=$((bugs + 3))   # This is fine. 🔥
-done
+// Hours spent: 6
+// Bug was: a missing semicolon 💀
 
-# Programmer's universal truth
-console.log("undefined is not a function") # 💀
+// Me at 9am:  "I'll write clean code today"
+// Me at 9pm:  // TODO: fix this later
+//             // TODO: what does this even do
+//             // TODO: why am I like this
 ```
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-> *"There are only 10 types of people in the world: those who understand binary, and those who don't."*
+> *"It's not a bug, it's an undocumented feature."* 😎
 
 ---
 
