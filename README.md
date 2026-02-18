@@ -141,6 +141,26 @@ console.log(YogeshMore.sayHi());
 
 ## 💼 Professional Experience &nbsp;&nbsp;![Experience](https://img.shields.io/badge/Total%20Experience-2%20Years%208%20Months-00D9FF?style=flat-square&labelColor=0D1117)
 
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                    PROFESSIONAL EXPERIENCE                                           ║
+╠═══════════════════════════════╦══════════════════════╦═══════════════════════════╦═══════════════════╣
+║          COMPANY              ║        ROLE          ║   DURATION                ║   TECH STACK      ║
+╠═══════════════════════════════╬══════════════════════╬═══════════════════════════╬═══════════════════╣
+║  EnergiSpeak Analytics        ║  MERN Stack          ║  Aug 2024 - Present       ║  React.js         ║
+║                               ║  Developer           ║  (1 year 7 months)        ║  Node.js          ║
+║                               ║                      ║                           ║  MongoDB • Docker ║
+╠═══════════════════════════════╬══════════════════════╬═══════════════════════════╬═══════════════════╣
+║  Acumen Cognitive             ║  Junior Software     ║  Jan 2023 - Jul 2024      ║  React.js         ║
+║  Engineering                  ║  Developer           ║  (11 months)              ║  Node.js          ║
+║                               ║                      ║                           ║  REST APIs        ║
+╠═══════════════════════════════╬══════════════════════╬═══════════════════════════╬═══════════════════╣
+║  BridgeLabz Solutions         ║  Full Stack          ║  Jun 2022 - Dec 2022      ║  React.js         ║
+║                               ║  Developer           ║  (7 months)               ║  Node.js          ║
+║                               ║                      ║                           ║  MongoDB          ║
+╚═══════════════════════════════╩══════════════════════╩═══════════════════════════╩═══════════════════╝
+```
+
 <details>
 <summary><b>🚀 EnergiSpeak Analytics — MERN Stack Developer</b> &nbsp;|&nbsp; <i>Aug 2024 – Present &nbsp;(1 year 7 months)</i></summary>
 
@@ -235,13 +255,22 @@ console.log(YogeshMore.sayHi());
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamyogeshmore&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&cache_seconds=1800" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamyogeshmore&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&cache_seconds=1800&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
 &nbsp;
 <img height="180em" src="https://streak-stats.demolab.com/?user=iamyogeshmore&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF5733&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=10" alt="GitHub Streak"/>
 
 <br/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8&hide=jupyter%20notebook,html,css&cache_seconds=1800" alt="Top Languages"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8&hide=jupyter%20notebook,html,css&cache_seconds=1800" alt="Top Languages"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamyogeshmore&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&layout=compact" alt="Wakatime Stats"/>
+
+<br/><br/>
+
+<!-- GitHub Stats Summary Badges -->
+![](https://img.shields.io/github/stars/iamyogeshmore?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=Total%20Stars)
+![](https://img.shields.io/github/followers/iamyogeshmore?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=Followers)
+![](https://img.shields.io/badge/Repos-Public-00D9FF?style=for-the-badge&labelColor=0D1117)
 
 <br/><br/>
 
