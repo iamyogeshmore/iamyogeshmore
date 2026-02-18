@@ -235,17 +235,17 @@ console.log(YogeshMore.sayHi());
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamyogeshmore&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamyogeshmore&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&cache_seconds=1800" alt="GitHub Stats"/>
 &nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamyogeshmore&theme=transparent&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF5733&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=10" alt="GitHub Streak"/>
+<img height="180em" src="https://streak-stats.demolab.com/?user=iamyogeshmore&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF5733&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=10" alt="GitHub Streak"/>
 
 <br/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8&hide=jupyter%20notebook,html,css" alt="Top Languages"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8&hide=jupyter%20notebook,html,css&cache_seconds=1800" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamyogeshmore&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamyogeshmore&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -279,28 +279,40 @@ console.log(YogeshMore.sayHi());
 ## 😄 Dev Humor Corner
 
 ```javascript
-// Me after 7 hours of debugging 🔍
+// Sprint estimation, a true story 📅
 
-const bug = await findBug();   // took 6 hrs 59 mins
-const fix = ";"                // took 1 min 💀
+async function estimateTask(task) {
+  const myEstimate   = "2 days";   // confident 😎
+  const actualTime   = "2 weeks";  // humbled 😐
+  const reasonWhy    = "CSS";      // always CSS 💀
 
-console.log("I am a senior developer.");
-console.log("I have 2.6 years of experience.");
-console.log("The bug was a missing semicolon.");
+  return `Done! (mostly)`;         // close enough ✅
+}
+
+// PM: "Just a small change, 5 minutes?"
+// Me: *opens 17 files, breaks prod, rewrites history*
+// Me: "Yeah, almost done." 🙂
 ```
 
 ```bash
-# My git history tells the full story
+# Real conversation with Git
 
-git commit -m "fix"
-git commit -m "fix2"
-git commit -m "fix FINAL"
-git commit -m "fix FINAL v2 (actual)"
-git commit -m "please work"
-git commit -m "ok I have no idea what I'm doing"  # 😭
+$ git push origin main
+error: failed to push — updates were rejected
+
+$ git pull
+CONFLICT: merge conflict in everything.js  # 😭
+
+$ git status
+On branch main
+Changes not staged:    your sanity
+Untracked files:       your confidence
+
+$ git commit -m "I just want to go home"
+$ git push --force   # YOLO 🚀
 ```
 
-> *"Programming is the art of telling another human what you want the computer to do — and then spending 3 days asking Stack Overflow why it won't."* 🤌
+> *"Software is like entropy — it always increases in complexity and you can never get those hours back."* ☕
 
 ---
 
