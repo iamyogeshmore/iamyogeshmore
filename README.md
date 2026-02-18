@@ -29,18 +29,18 @@
 
 ```typescript
 const YogeshMore = {
-  name       : "Yogesh More",
-  role       : "MERN Stack Developer",
-  location   : "📍 Navi Mumbai, India",
-  experience : "2.6+ Years",
-  company    : "EnergiSpeak Analytics",
+  name           : "Yogesh More",
+  role           : "MERN Stack Developer",
+  location       : "Navi Mumbai, India",
+  experience     : "2.6+ Years",
+  currantCompany : "EnergiSpeak Analytics",
 
   expertise  : {
     frontend : ["React.js", "JavaScript (ES6+)", "HTML5", "CSS3", "Material UI"],
     backend  : ["Node.js", "Express.js", "REST APIs"],
     database : ["MongoDB"],
     devops   : ["Docker", "Git", "GitHub"],
-    other    : ["Chart.js", "Data Visualization", "Agile/Scrum"],
+    other    : ["Chart.js", "Data Visualization"],
   },
 
   currentlyDoing: [
@@ -50,14 +50,11 @@ const YogeshMore = {
     "🌱  Constantly learning & levelling up",
   ],
 
-  openTo     : "Full-Time Roles | Freelance | Open Source Collaborations",
+  funFact    : "I debug with console.log 😅",
 
-  funFact    : "I debug with console.log and I'm not ashamed 😅",
-
-  sayHi: (): string => "Let's build something amazing together! 🚀",
 };
 
-console.log(YogeshMore.sayHi());
+console.log(YogeshMore);
 ```
 
 ---
@@ -210,7 +207,6 @@ console.log(YogeshMore.sayHi());
 
 </details>
 
-<br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -232,7 +228,7 @@ console.log(YogeshMore.sayHi());
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<br/>
+
 
 ## 🏆 Certifications & Achievements
 
@@ -251,40 +247,31 @@ console.log(YogeshMore.sayHi());
 
 ---
 
-## 📊 GitHub Stats
-
+## 📊 GitHub Stats  
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamyogeshmore&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&cache_seconds=1800&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<!-- Real stats badges using shields.io - always works -->
+<img src="https://img.shields.io/badge/Repositories-77-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
 &nbsp;
-<img height="180em" src="https://streak-stats.demolab.com/?user=iamyogeshmore&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF5733&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=10" alt="GitHub Streak"/>
+<img src="https://img.shields.io/badge/Total%20Stars-47-FFD700?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Contributions-657%2B-2EC866?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Longest%20Streak-31%20Days-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+<br/>
+<br/>
+
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=iamyogeshmore&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF5733&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=8b949e&sideNums=FFFFFF&currStreakNum=FFFFFF&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 <br/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&langs_count=8&hide=jupyter%20notebook,html,css&cache_seconds=1800" alt="Top Languages"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamyogeshmore&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&border_radius=10&layout=compact" alt="Wakatime Stats"/>
 
-<br/><br/>
 
-<!-- GitHub Stats Summary Badges -->
-![](https://img.shields.io/github/stars/iamyogeshmore?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=Total%20Stars)
-![](https://img.shields.io/github/followers/iamyogeshmore?style=for-the-badge&color=00D9FF&labelColor=0D1117&label=Followers)
-![](https://img.shields.io/badge/Repos-Public-00D9FF?style=for-the-badge&labelColor=0D1117)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=iamyogeshmore&theme=onestar&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamyogeshmore&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamyogeshmore&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true&radius=8" width="100%" alt="Contribution Graph" />
 
 </div>
 
@@ -340,17 +327,31 @@ Untracked files:       your confidence
 $ git commit -m "I just want to go home"
 $ git push --force   # YOLO 🚀
 ```
+<div align="center">
 
-> *"Software is like entropy — it always increases in complexity and you can never get those hours back."* ☕
-
----
-
+![Wave](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* 📖  
+> *"Programming isn't about what you know; it's about what you can figure out."* 🧩  
+> *"The best error message is the one that never shows up."* ✨ <br/>
+**© 2026 Yogesh More • MERN Stack Developer**
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**⚡ If you like what you see, drop a ⭐ on a repo! It means a lot.**
+### 💻 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-*Made with ❤️ and way too much ☕ by Yogesh More*
+**⚡ Building the future, one commit at a time.**
 
+```javascript
+const developer = {
+  passion: "∞",
+  coffee: "required",
+  bugs: "features in disguise",
+  status: "always learning"
+};
+```
+[![Reach Out](https://img.shields.io/badge/Let's_Connect-00D9FF?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/yogesh-more-28b663266/)
+[![Email Me](https://img.shields.io/badge/Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iyogesh.more1998@gmail.com)
+![Wave](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+</div>
 </div>
