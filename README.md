@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Yogesh%20More&fontSize=55&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%202.6%20Years%20Experience&descAlignY=60&descAlign=50&descColor=7ee8fa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Yogesh%20More&fontSize=60&fontColor=00d9ff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%202.6%20Years%20Experience&descAlignY=60&descAlign=50&descColor=7ee8fa"/>
 
 <a href="https://github.com/iamyogeshmore">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=const+dev+%3D+new+MERNStackDeveloper();+%F0%9F%9A%80;dev.build(%22scalable+web+apps%22);+%E2%9C%85;dev.stack+%3D+%5BMongo%2C+Express%2C+React%2C+Node%5D;+%F0%9F%94%A5;dev.experience+%3D+'2.6+years'+%F0%9F%92%BC;console.log('Always+shipping.+Always+learning.');+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=720&lines=const+dev+%3D+new+MERNStackDeveloper();+%F0%9F%9A%80;dev.build(%22scalable+web+apps%22);+%E2%9C%85;dev.stack+%3D+%5BMongo%2C+Express%2C+React%2C+Node%5D;+%F0%9F%94%A5;dev.experience+%3D+'2.6+years'+%F0%9F%92%BC;console.log('Always+shipping.+Always+learning.');+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,46 +12,49 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/iamyogeshmore?label=Followers&style=flat-square&color=00d9ff"/>
 &nbsp;
-<a href="https://yogeshmorecv.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-00d9ff?style=flat-square&logo=netlify"/></a>
+<a href="https://yogeshmorecv.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live%20🚀-00d9ff?style=flat-square&logo=netlify"/></a>
 
 </div>
 
 ---
 
+<img align="right" alt="coding gif" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 ```javascript
 // === YOGESH MORE ===
-// MERN Stack Developer | 2.6 Years Experience
+// MERN Stack Developer | 2.6 Years
 
 const yogesh = {
   location    : "Maharashtra, India 🇮🇳",
   contact     : "iyogesh.more1998@gmail.com",
   portfolio   : "https://yogeshmorecv.netlify.app/",
-  linkedin    : "linkedin.com/in/yogesh-more-28b663266",
 
-  stack       : ["MongoDB", "Express.js", "React.js", "Node.js"],
-  frontend    : ["React.js", "JavaScript ES6+", "HTML5", "CSS3", "Material UI"],
-  backend     : ["Node.js", "Express.js", "REST APIs"],
+  stack       : ["MongoDB", "Express.js",
+                 "React.js", "Node.js"],
+  frontend    : ["React.js", "JS ES6+",
+                 "HTML5", "CSS3", "MUI"],
+  backend     : ["Node.js", "Express.js",
+                 "REST APIs"],
   database    : ["MongoDB"],
-  tools       : ["Git", "GitHub", "Docker", "Chart.js", "Postman"],
+  tools       : ["Git", "GitHub",
+                 "Docker", "Postman"],
 
-  strengths   : [
-    "Interactive Dashboards & Data Visualization",
-    "Scalable REST API Development",
-    "Responsive & User-Friendly UI",
-    "Reusable Component Architecture",
-    "Docker Containerization",
-  ],
-
-  currentRole : "MERN Stack Developer @ EnergiSpeak Analytics",
-  education   : "B.Sc. in Information Technology",
-
-  motto       : "Clean code. Real impact. Always shipping.",
+  currentRole : "MERN Dev @ EnergiSpeak",
+  motto       : "Ship it. Fix it. Ship again.",
 };
 ```
+
+<br clear="right"/>
 
 ---
 
 ## 💼 Experience
+
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="coder gif" width="500"/>
+</div>
+
+<br/>
 
 <table>
   <tr>
@@ -61,9 +64,9 @@ const yogesh = {
   </tr>
   <tr>
     <td colspan="3">
-      → Built interactive dashboards using <b>React.js</b> + <b>Material UI</b><br/>
-      → Real-time data visualization with <b>React-Chart.js-2</b><br/>
-      → Scalable REST APIs via <b>Node.js</b> & <b>Express.js</b><br/>
+      → Built interactive dashboards with <b>React.js</b> + <b>Material UI</b><br/>
+      → Real-time data visualization via <b>React-Chart.js-2</b><br/>
+      → Scalable REST APIs using <b>Node.js</b> & <b>Express.js</b><br/>
       → Containerized apps with <b>Docker</b> for dev/prod parity<br/>
       → Collaborated with PMs & designers on user-centric solutions
     </td>
@@ -77,7 +80,7 @@ const yogesh = {
   <tr>
     <td colspan="3">
       → Responsive web apps using <b>React.js</b>, <b>Node.js</b>, <b>Express.js</b><br/>
-      → Designed & consumed REST APIs for frontend-backend integration<br/>
+      → Designed & consumed REST APIs for seamless FE-BE integration<br/>
       → Built reusable component libraries improving maintainability<br/>
       → Cross-functional team collaboration
     </td>
@@ -91,7 +94,7 @@ const yogesh = {
   <tr>
     <td colspan="3">
       → Built Employee Payroll & Address Book apps end-to-end<br/>
-      → Backend APIs with <b>Spring Boot</b>, frontend with <b>React.js</b> & Material UI<br/>
+      → Backend APIs with <b>Spring Boot</b>, frontend with <b>React.js</b> & MUI<br/>
       → SQL schema design & search functionality
     </td>
   </tr>
@@ -100,6 +103,8 @@ const yogesh = {
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 ### ⚛️ Frontend
 <p>
@@ -132,25 +137,38 @@ const yogesh = {
   <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=iamyogeshmore&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=00d9ff&title_color=00d9ff"/>
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&theme=github_dark&hide_border=true&title_color=00d9ff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamyogeshmore&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&icon_color=00d9ff&title_color=00d9ff&bg_color=0d1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamyogeshmore&layout=compact&theme=tokyonight&hide_border=true&title_color=00d9ff&bg_color=0d1117"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamyogeshmore&theme=github-dark-blue&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=iamyogeshmore&theme=tokyonight&hide_border=true&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&background=0d1117"/>
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=iamyogeshmore&theme=react-dark&hide_border=true&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff"/>
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamyogeshmore&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
+</div>
+
+---
+
+## 🏅 Certifications & Achievements
 
 ```
 ✅  BridgeLabz Fellowship Program    →  Frontend Developer (React)
@@ -207,10 +225,25 @@ const yogesh = {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+
+### 😂 Dev Joke of the Day
+
+> **"A QA engineer walks into a bar.**
+> Orders 1 beer. Orders 0 beers. Orders 99999999 beers.
+> Orders -1 beers. Orders asdfjkl; beers.
+> Orders NULL beers. Orders *ahem* a lizard.
+> First real customer walks in and asks where the bathroom is.
+> The bar bursts into flames. 🔥"**
+
+<br/>
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+
+*"It works on my machine"* — **every developer, ever** 😅
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=130&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=00d9ff&animation=fadeIn"/>
 
 </div>
